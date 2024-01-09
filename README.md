@@ -1,2 +1,2 @@
-# Delt-Demo
+# Delta-Demo
 Git &amp; GitHub learning
